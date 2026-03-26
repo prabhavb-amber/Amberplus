@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/amber-plus", "destination": "/amber-plus.html" }
+  ]
+}
